@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Flipcart Test Suite]">
+  <test thread-count="5" name="Regression suite 1(failed)">
+    <classes>
+      <class name="com.qa.flipcart.testcases.NewTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.qa.flipcart.testcases.NewTest -->
+    </classes>
+  </test> <!-- Regression suite 1(failed) -->
+</suite> <!-- Failed suite [Flipcart Test Suite] -->

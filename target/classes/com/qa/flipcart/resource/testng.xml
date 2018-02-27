@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Flipcart Test Suite" verbose="1" >
+  <test name="Regression suite 1" >
+    <classes>
+      <class name="com.qa.flipcart.testcases.LoginPageTestCases"/>
+      <class name="com.qa.flipcart.testcases.SearchPageTestCases"/>
+      <class name="com.qa.flipcart.testcases.NewTest"/>
+    </classes>
+ </test>
+</suite>
